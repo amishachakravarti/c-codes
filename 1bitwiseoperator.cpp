@@ -1,0 +1,1 @@
+// bitwise operator let you manage a no. at bit level
